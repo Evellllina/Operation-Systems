@@ -1,0 +1,13 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Цель работы}{2}{}%
+\contentsline {section}{\numberline {2}Задание}{2}{}%
+\contentsline {section}{\numberline {3}Теоретические сведения}{2}{}%
+\contentsline {subsection}{\numberline {3.1}Системные вызовы в ОС Linux}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Системные вызовы в ОС Windows}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Проблема наследования файловых дескрипторов}{3}{}%
+\contentsline {section}{\numberline {4}Описание программы}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Структура проекта}{4}{}%
+\contentsline {subsection}{\numberline {4.2}Алгоритм работы родительского процесса}{4}{}%
+\contentsline {subsection}{\numberline {4.3}Алгоритм работы дочернего процесса}{5}{}%
+\contentsline {subsection}{\numberline {4.4}Решение проблемы дедлока}{5}{}%
+\contentsline {section}{\numberline {5}Результаты работы}{5}{}%
