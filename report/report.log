@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.10.1)  1 OCT 2026 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.10.1)  1 OCT 2026 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,30 +467,30 @@ e
 
  [1]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-79.
+77.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (4.39566pt too wide) in paragraph at lines 81--82
+Overfull \hbox (4.39566pt too wide) in paragraph at lines 79--80
 []\T2A/cmtt/m/n/12 int execve(const char *filename, char *const argv[], char *c
 onst envp[])
  []
 
 
-Overfull \hbox (1.2236pt too wide) in paragraph at lines 83--84
+Overfull \hbox (1.2236pt too wide) in paragraph at lines 81--82
 []\T2A/cmtt/m/n/12 pid_t waitpid(pid_t pid, int *status, int options) \T2A/cmr/
 m/n/12 --- ожи-да-ние за-вер-ше-ния
  []
 
 [2]
-Overfull \hbox (11.72307pt too wide) in paragraph at lines 91--92
+Overfull \hbox (11.72307pt too wide) in paragraph at lines 89--90
 []\T2A/cmtt/m/n/12 int open(const char *pathname, int flags, mode_t mode) \T2A/
 cmr/m/n/12 --- от-кры-тие/создание
  []
 
 [3]
-Overfull \hbox (32.21017pt too wide) in paragraph at lines 122--123
+Overfull \hbox (32.21017pt too wide) in paragraph at lines 119--120
 \T2A/cmr/m/n/12 платформенно-зависимые ре-а-ли-за-ции: \T2A/cmtt/m/n/12 process
 _posix.cpp \T2A/cmr/m/n/12 для Linux и \T2A/cmtt/m/n/12 process_win.cpp
  []
@@ -499,7 +499,7 @@ _posix.cpp \T2A/cmr/m/n/12 для Linux и \T2A/cmtt/m/n/12 process_win.cpp
 <console.jpg, id=29, 564.1075pt x 615.29875pt>
 File: console.jpg Graphic file (type jpg)
 <use console.jpg>
-Package pdftex.def Info: console.jpg  used on input line 183.
+Package pdftex.def Info: console.jpg  used on input line 180.
 (pdftex.def)             Requested size: 445.99553pt x 486.475pt.
 
 
@@ -508,7 +508,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <files.jpg, id=30, 541.02126pt x 128.48pt>
 File: files.jpg Graphic file (type jpg)
 <use files.jpg>
-Package pdftex.def Info: files.jpg  used on input line 201.
+Package pdftex.def Info: files.jpg  used on input line 198.
 (pdftex.def)             Requested size: 445.99553pt x 105.91692pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -518,10 +518,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  4618 strings out of 475656
@@ -530,7 +526,7 @@ Here is how much of TeX's memory you used:
  26598 multiletter control sequences out of 15000+600000
  567866 words of font info for 57 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 57i,8n,65p,1201b,257s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,1201b,243s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/evelina/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600
 pk> </home/evelina/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt1200.60
 0pk> </home/evelina/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200
@@ -542,9 +538,9 @@ pk> </home/evelina/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt1200.60
 x1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (8 pages, 239238 bytes).
+Output written on report.pdf (8 pages, 243466 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
+ 423 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
