@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/child.dir/main.cpp.o -o child  ../os/libos.a ../common/libcommon.a 

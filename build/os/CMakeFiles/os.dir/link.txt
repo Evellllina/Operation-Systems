@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos.a CMakeFiles/os.dir/process.cpp.o CMakeFiles/os.dir/process_posix.cpp.o
+/usr/bin/ranlib libos.a

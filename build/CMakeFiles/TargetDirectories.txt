@@ -1,0 +1,14 @@
+/home/evelina/Operation-Systems/build/CMakeFiles/edit_cache.dir
+/home/evelina/Operation-Systems/build/CMakeFiles/rebuild_cache.dir
+/home/evelina/Operation-Systems/build/common/CMakeFiles/common.dir
+/home/evelina/Operation-Systems/build/common/CMakeFiles/edit_cache.dir
+/home/evelina/Operation-Systems/build/common/CMakeFiles/rebuild_cache.dir
+/home/evelina/Operation-Systems/build/os/CMakeFiles/os.dir
+/home/evelina/Operation-Systems/build/os/CMakeFiles/edit_cache.dir
+/home/evelina/Operation-Systems/build/os/CMakeFiles/rebuild_cache.dir
+/home/evelina/Operation-Systems/build/parent/CMakeFiles/parent.dir
+/home/evelina/Operation-Systems/build/parent/CMakeFiles/edit_cache.dir
+/home/evelina/Operation-Systems/build/parent/CMakeFiles/rebuild_cache.dir
+/home/evelina/Operation-Systems/build/child/CMakeFiles/child.dir
+/home/evelina/Operation-Systems/build/child/CMakeFiles/edit_cache.dir
+/home/evelina/Operation-Systems/build/child/CMakeFiles/rebuild_cache.dir
