@@ -42,7 +42,7 @@ void binary_insertion_sort(int *a, std::size_t lo, std::size_t hi, std::size_t s
         *pos = x;
     }
 }
-// Галоп: быстро считает, сколько элементов <= key (прыжки 1, 2, 4, 8... + бинарный поиск)
+// Галоп: быстро считает, сколько элементов <= key 
 std::size_t gallop_right(int key, const int *a, std::size_t n) {
     std::size_t lo = 0, hi = 1;
     while (hi <= n && a[hi - 1] <= key) {
